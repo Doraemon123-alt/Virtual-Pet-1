@@ -48,7 +48,7 @@ function draw() {
   textSize(20)
   fill("yellow")
   stroke("yellow")
-  text("Food Remaining:"+foods,200,200)
+  text("Food Remaining:"+foods,200,100)
 
 }
 
